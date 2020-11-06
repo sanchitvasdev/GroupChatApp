@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GroupChatApp</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_info">Profile Info</string>
+    <string name="mention_your_name">Mention your Name</string>
+    <string name="mention_your_state">Mention your State</string>
+    <string name="mention_your_city">Mention your City</string>
+    <string name="please_provide_your_details_mentioned_below">Please provide your details mentioned below:</string>
+    <string name="welcome_to_our_app">Welcome to our app!</string>
+    <string name="client_id">353902561639-dre6g64oobbusgeptmhm566njo3iiaf4.apps.googleusercontent.com</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="next">next</string>
+    <string name="or">OR</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="joined_date">Joined date</string>
+    <string name="name">Name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="logout">Logout</string>
+</resources>
